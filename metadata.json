@@ -1,0 +1,6 @@
+{
+  "name": "Co-Builder",
+  "description": "Modern Indian construction marketplace connecting homeowners with verified local builders and thekedars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
